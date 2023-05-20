@@ -1,9 +1,10 @@
 /* src/App.css */
-
+body{
+  background-image: url("./background.avif");
+}
 .App {
   text-align: center;
   padding: 20px;
-  background-color: rgba(138, 247, 192, 0.842);
 }
 
 img {

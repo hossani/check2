@@ -6,9 +6,10 @@ import './App.css'
 const App = () => {
   return (
     <div className="App">
-      <ProfilePhoto />
+      <body><ProfilePhoto />
       <FullName />
-      <Address />
+      <Address /></body>
+      
     </div>
   );
 };

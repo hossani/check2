@@ -6,7 +6,7 @@ import './App.css'
 const App = () => {
   return (
     <div className="App">
-      
+      {/* Ici on trouve component ProfilePhoto */}
         <ProfilePhoto />
       <FullName />
       <Address />
